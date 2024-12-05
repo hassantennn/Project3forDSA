@@ -46,10 +46,14 @@ Stock market investments can be complex, and many people lack the knowledge or t
 ```plaintext
 StockMarketAnalysisSystem/
 ├── src/                    # C++ source files
+│   ├── html
+    │   ├── dashboard.html
 │   ├── StockDataProcessor.cpp  # Handles API integration and data processing
 │   ├── Heap.cpp            # Heap data structure implementation
 │   ├── MergeSort.cpp    # Red Black Tree data structure implementation
 │   └── PerformanceCalculator.cpp  # Calculates financial metrics
+│   └── json/               
+│   └── httplib.h
 ├── include/                # Header files
 │   ├── StockDataProcessor.h
 │   ├── Heap.h
@@ -57,9 +61,8 @@ StockMarketAnalysisSystem/
 │   └── PerformanceCalculator.h
 ├── data/                   # Data files (e.g., sample stock data)
 ├── tests/                  # Unit tests
-├── lib/                    # Third-party libraries (e.g., JSON library)
-│   └── json/               # JSON parsing library files
-    └── httplib.h
+                            # Third-party libraries (e.g., JSON library)
+
 └── CMakeLists.txt          # CMake build configuration
 
 ## How To Use Our Code
