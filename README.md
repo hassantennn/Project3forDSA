@@ -66,8 +66,8 @@ StockMarketAnalysisSystem/
 └── CMakeLists.txt          # CMake build configuration
 
 ## How To Use Our Code
-1) Download all files from our GitHub (including the 30 csv company files)
-2) Move all csv files inside the "dataa" file
+0) Download all files from our GitHub (including the 30 csv company files)
+1) Move all csv files inside the "dataa" file, and replace the ones repeated inside
 2) Run code through terminal
 3) Go to src/html/dashboard.html and a bar pops up on the right-hand side of the screen with little icons: FireFox, Google Chrome, etc.
 4) Click Google Chrome icon which directs you to the website
