@@ -1,0 +1,7 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/aarch64/ninja -G Ninja -S "/Users/apple/Desktop/Data Structures and Algorithms/Project3" -B "/Users/apple/Desktop/Data Structures and Algorithms/Project3/cmake-build-debug"
+-- Source Files: /Users/apple/Desktop/Data Structures and Algorithms/Project3/src/Heap.cpp;/Users/apple/Desktop/Data Structures and Algorithms/Project3/src/Mergesort.cpp;/Users/apple/Desktop/Data Structures and Algorithms/Project3/src/PerformanceCalculator.cpp;/Users/apple/Desktop/Data Structures and Algorithms/Project3/src/StockDataProcessor.cpp;/Users/apple/Desktop/Data Structures and Algorithms/Project3/src/main.cpp
+-- Test Files: /Users/apple/Desktop/Data Structures and Algorithms/Project3/tests/test_Heap.cpp;/Users/apple/Desktop/Data Structures and Algorithms/Project3/tests/test_PerformanceCalculator.cpp;/Users/apple/Desktop/Data Structures and Algorithms/Project3/tests/test_RedBlackTree.cpp;/Users/apple/Desktop/Data Structures and Algorithms/Project3/tests/test_StockDataProcessor.cpp
+-- Include Directories: /Users/apple/Desktop/Data Structures and Algorithms/Project3/include, /Users/apple/Desktop/Data Structures and Algorithms/Project3/lib/json
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/apple/Desktop/Data Structures and Algorithms/Project3/cmake-build-debug
